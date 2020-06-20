@@ -1,1 +1,5 @@
-# xetter91
+# XETTER '91
+
+You can assemble this source code by Carry lab's SuperBASE.
+
+The assembled binary is on https://xetter.com/ .
